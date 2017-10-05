@@ -9,6 +9,6 @@ In this tutorial you will be introduced to Git and Github so you can upload your
 * [Markdown Cheat Sheet (.md)](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
  
 ### Objectives
-*
-*
-*
+* Create your first Repository
+* Intro. to Command Line Interface(CLI) Git
+* Intro. to colaborating with GitHub
