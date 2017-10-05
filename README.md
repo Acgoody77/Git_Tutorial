@@ -7,7 +7,7 @@ In this tutorial you will be introduced to Git and Github so you can upload your
 * [Github Desktop Client](https://desktop.github.com/)
 * [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [Markdown Cheat Sheet (.md)](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-<a href="https://git-scm.com/" target="Git Command Line Interface">New Tab</a>
+
  
 ### Objectives
 * Create your first Repository
