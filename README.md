@@ -2,6 +2,11 @@
 ##### *By Austin Goodman and Joshua Johnson*
 In this tutorial you will be introduced to Git and Github so you can upload your projects to a version control system for everyone to see!
 
+
+### Create a Github account
+* [Join Github](https://github.com/join)
+
+
 ### Resources
 * [Git Command Line Interface](https://git-scm.com/)
 * [Github Desktop Client](https://desktop.github.com/)
@@ -11,5 +16,5 @@ In this tutorial you will be introduced to Git and Github so you can upload your
  
 ### Objectives
 * Create your first Repository
-* Intro. to Command Line Interface(CLI) Git
-* Intro. to colaborating with GitHub
+* Introduction to Command Line Interface(CLI) Git
+* Introduction to colaborating with GitHub
